@@ -27,18 +27,30 @@ Como pilar central de toda esta estrutura de fluxo de caixa, o Caderno destaca a
 O objetivo primordial de toda esta gestão é garantir que o orçamento seja sempre superavitário (ganhar mais do que se gasta), garantindo que a primeira ação ao receber o salário deve ser colocar de lado uma parte para poupar antes de começar a pagar as despesas.
 
 ## 📖 Glossário1.
-Orçamento: Pode ser visto como uma ferramenta de planejamento financeiro pessoal ou familiar que anota e organiza todas as receitas, despesas e investimentos, servindo para conhecer a realidade financeira e contribuir com a realização de sonhos e projeto.
+
+1. Orçamento: Pode ser visto como uma ferramenta de planejamento financeiro pessoal ou familiar que anota e organiza todas as receitas, despesas e investimentos, servindo para conhecer a realidade financeira e contribuir com a realização de sonhos e projeto.
+
 2. Poupança: É a diferença positiva entre as receitas e as despesas, ou seja, a sobra financeira resultante de gastar menos do que se ganha.
+   
 3. Investimento: Consiste na aplicação dos recursos financeiros que poupamos, com a expectativa de obtermos uma remuneração (retorno) por essa aplicação ao longo do tempo.
+   
 4. Troca Intertemporal: Expressão que define os efeitos das escolhas que fazemos hoje sobre o nosso futuro, ou seja, o dilema entre antecipar o consumo agora (pagando juros e assumindo dívidas) ou postergar o consumo (poupando para receber juros como recompensa).
+ 
 5. Juros Compostos: São os juros que, após cada período (normalmente um mês), são incorporados ao capital principal e passam também a render novos juros, gerando o chamado efeito de "juros sobre juros".
+   
 6. Custo Efetivo Total (CET): É a informação percentual que mostra quanto efetivamente custa uma operação de empréstimo ou financiamento, pois inclui não apenas a taxa de juros nominal, mas também impostos, tarifas e outros encargos cobrados pela instituição.
+ 
 7. Liquidez: Refere-se à capacidade que um artigo, ativo ou investimento possui de ser transformado em dinheiro vivo a qualquer momento e por um preço justo.
+
 8. Rentabilidade: É o retorno ou a remuneração gerada por um investimento.
-Existe uma regra geral no mercado financeiro de que, quanto maior a rentabilidade prometida, maior tende a ser o risco associado à aplicação
+Existe uma regra geral no mercado financeiro de que, quanto maior a rentabilidade prometida, maior tende a ser o risco associado à aplicação.
+
 9. Risco: No mundo dos investimentos, é a probabilidade de o investidor incorrer em perdas financeiras.
-De forma geral, é um evento incerto e alheio à vontade que pode abalar o equilíbrio econômico-financeiro
+De forma geral, é um evento incerto e alheio à vontade que pode abalar o equilíbrio econômico-financeiro.
+
 10. Valor Futuro de Capital: É um conceito matemático onde uma quantia atual é projetada para o futuro, considerando uma certa taxa de juros, para obter o montante final após um determinado número de meses, sendo esta uma das principais funções simuladas pela Calculadora do Cidadão.
+
+    
 ## 🤖 Log de Prompts Reutilizáveis
 1. Prompt de Flashcards
 Com base no material do BCB, crie 5 perguntas e respostas curtas (estilo flashcards) sobre os conceitos de Reserva de Emergência e Custo Efetivo Total (CET). Não dê as respostas imediatamente, coloque-as em um bloco escondido ou ao final.
